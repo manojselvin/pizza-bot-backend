@@ -1,0 +1,30 @@
+{
+  "name": "pizza-bot-backend",
+  "version": "1.0.0",
+  "description": "Backend for pizza bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-prod": "export NODE_ENV=production || SET \"NODE_ENV=production\" && sudo node app.js",
+    "start-watch": "nodemon app.js",
+    "test": "export NODE_ENV=test || SET \"NODE_ENV=test\" && mocha server/**/*.test.js",
+    "test-watch": "nodemon --exec \"npm test\""
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Manoj Selvin",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "custom-env": "^2.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.6",
+    "mongoose-autopopulate": "^0.12.1",
+    "mongoose-type-email": "^1.0.12"
+  }
+}

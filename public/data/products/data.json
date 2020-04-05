@@ -1,0 +1,56 @@
+[{
+    "name": "Veggie Loaded",
+    "imageUrl": "1.webp",
+    "description": "Yummy! with veggies loaded",
+    "price": 10,
+    "foodType": "veg"
+},
+{
+    "name": "Veg Dominator",
+    "imageUrl": "2.webp",
+    "description": "Yummy! with Veg Dominator",
+    "price": 12,
+    "foodType": "veg"
+},
+{
+    "name": "Cheese Garnishing",
+    "imageUrl": "3.webp",
+    "description": "Yummy! with Cheese Garnishing",
+    "price": 23,
+    "foodType": "veg"
+},
+{
+    "name": "Tomato Cheese",
+    "imageUrl": "4.webp",
+    "description": "Yummy! with Tomato Cheese",
+    "price": 6,
+    "foodType": "veg"
+},
+{
+    "name": "Non Veg Loaded",
+    "imageUrl": "1.webp",
+    "description": "Yummy! with Non veg loaded",
+    "price": 18,
+    "foodType": "non_veg"
+},
+{
+    "name": "Chicken Dominator",
+    "imageUrl": "2.webp",
+    "description": "Yummy! with Chicken Dominator",
+    "price": 32,
+    "foodType": "non_veg"
+},
+{
+    "name": "Mutton Garnishing",
+    "imageUrl": "3.webp",
+    "description": "Yummy! with Mutton Garnishing",
+    "price": 15,
+    "foodType": "non_veg"
+},
+{
+    "name": "Garlic Chicken Cheese",
+    "imageUrl": "4.webp",
+    "description": "Yummy! with Garlic Chicken Cheese",
+    "price": 20,
+    "foodType": "non_veg"
+}]

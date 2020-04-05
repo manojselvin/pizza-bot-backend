@@ -1,0 +1,24 @@
+[{
+    "name": "Manoj",
+    "phone": "9123547371",
+    "address": "ABC Street, Test Nagar, Sample City",
+    "email": "user1@testworld.com"
+},
+{
+    "name": "Shyam",
+    "phone": "9123547372",
+    "address": "DEF Street, Test Nagar, Sample City",
+    "email": "user2@testworld.com"
+},
+{
+    "name": "Ram",
+    "phone": "9123547373",
+    "address": "GHI Street, Test Nagar, Sample City",
+    "email": "user3@testworld.com"
+},
+{
+    "name": "Nadar",
+    "phone": "9123547374",
+    "address": "JKL Street, Test Nagar, Sample City",
+    "email": "user4@testworld.com"
+}]
